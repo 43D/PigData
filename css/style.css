@@ -58,7 +58,7 @@ nav.nb-mini .navbar-brand {
 
 .mapImage {
     height: 500px;
-    background-image: url("./img/biopark.jpg");
+    background-image: url("../img/biopark.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
