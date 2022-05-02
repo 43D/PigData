@@ -7,6 +7,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 Desafio da disciplina de Sítios Web, da UTFPR - Toledo.
-O desafio consiste em criar um Front para evento do zero.
+O desafio consiste em criar um Front para o evento PigData, fazendo do zero.
 
 [Clique aqui para visualizar](https://43d.github.io/PigData/)
